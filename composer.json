@@ -1,5 +1,5 @@
 {
-    "name": "laravelcollective/html",
+    "name": "ranabd36/laravelcollective",
     "description": "HTML and Form Builders for the Laravel Framework",
     "license": "MIT",
     "homepage": "https://laravelcollective.com",
@@ -8,6 +8,10 @@
         "source": "https://github.com/LaravelCollective/html"
     },
     "authors": [
+        {
+            "name": "Ibrahim Al Naz Rana",
+            "email": "ranabd36@gmail.com"
+        },
         {
             "name": "Adam Engebretson",
             "email": "adam@laravelcollective.com"
