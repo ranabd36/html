@@ -10,4 +10,4 @@ Official documentation for Forms & Html for The Laravel Framework can be found a
 
 ## Installation 
 
- ```composer require ranabd36/laravelcol```
+ ```composer require ranabd36/laravelcollective```
